@@ -1,0 +1,39 @@
+body{
+    background: rgb(198, 144, 235);
+    padding: 25px auto;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(202, 223, 241);
+}
+img{
+    width: 500px;
+    height: 500px;
+    border:  2px solid rgba(82, 35, 94, 0.808);
+    border-radius: 3px;
+    margin: 5px auto;
+}
+h1{
+    font-size: 50px;
+    color: rgb(138, 8, 224);
+    border-bottom: 2px solid rgba(82, 35, 94, 0.808);
+    margin: 30px;
+}
+h3{
+    font-size: 30px;
+    color: rgb(90, 77, 100);
+    border-bottom: 2px solid rgba(82, 35, 94, 0.808);
+    margin: 30px;
+    
+}
+p{
+    font-size: 18px;
+}
+.seccion{ 
+    border:3px solid purple ;
+    text-align: center;
+    background: rgb(193, 94, 212);
+    padding: 15px auto;
+    margin: 30px auto;
+    box-shadow: 5px 5px 20px purple;
+    width: 900px;
+}
+   
